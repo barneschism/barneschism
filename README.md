@@ -32,7 +32,7 @@ Driven by a commitment to delivering excellent outcomes for clients and teams al
   <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" alt="GitHub Administration" height="100"/>
   <img src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" alt="GitHub Advanced Security" height="100"/>
   <img src="https://images.credly.com/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="GitHub Copilot" height="100"/>
-  <img src="https://images.credly.com/images/4d7de3bd-df9d-4b79-a753-290252e89a93/converted20260320-32-mqsz9x.png" alt="GitHub Foundations" height="100"/>
+  <img src="assets/badges/github-foundations.png" alt="GitHub Foundations" height="100"/>
 </p>
 
 - **GitHub Actions**
