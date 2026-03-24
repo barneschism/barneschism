@@ -35,11 +35,11 @@ Driven by a commitment to delivering excellent outcomes for clients and teams al
   <img src="https://learn.microsoft.com/media/learn/certification/badges/github-foundations.svg" alt="GitHub Foundations" height="100"/>
 </p>
 
-- **GitHub Actions**
-- **GitHub Administration**
-- **GitHub Advanced Security**
-- **GitHub Copilot**
-- **GitHub Foundations**
+- GitHub Actions
+- GitHub Administration
+- GitHub Advanced Security
+- GitHub Copilot
+- GitHub Foundations
 
 #### Partner Delivery Credentials
 
@@ -83,8 +83,8 @@ Driven by a commitment to delivering excellent outcomes for clients and teams al
   <img src="https://images.credly.com/images/e840c4a2-e14e-436d-ac27-373ea784b8a2/converted20260317-31-cojgm0.png" alt="Microsoft Certified: Azure AI Fundamentals" height="100"/>
 </p>
 
-- **Microsoft Certified: DevOps Engineer Expert**
-- **Microsoft Certified: Azure Administrator Associate**
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Administrator Associate
 - Azure AI Fundamentals
 
 ---
