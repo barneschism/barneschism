@@ -99,11 +99,6 @@ Driven by a commitment to delivering excellent outcomes for clients and teams al
 - Automate Azure Load Testing by using GitHub Actions
 - Accelerate AI-assisted development by using GitHub Copilot
 
----
-
-## 🎓 Education
-
-- **Bachelor of Business Administration (BBA)** — Management Information Systems | University of Memphis (2010 – 2014)
 
 ---
 
