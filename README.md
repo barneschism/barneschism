@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-**DevOps Consultant @ Xebia | Azure | GitHub | CI/CD**
+**DevOps Consultant @ Xebia | Microsoft Certified Trainer | Azure | GitHub | CI/CD**
 
 With over a decade of experience in DevOps engineering and consulting, I help teams develop and operate workloads on **Microsoft Azure** — the leading cloud platform for enterprise applications. I deliver high-quality solutions through pipeline automation, cloud architecture and security, and DevOps adoption.
 
@@ -86,7 +86,6 @@ Driven by a commitment to delivering excellent outcomes for clients and teams al
 - Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Administrator Associate
 - Azure AI Fundamentals
-- Microsoft Certified Trainer
 
 ---
 
