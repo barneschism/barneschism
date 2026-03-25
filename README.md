@@ -6,7 +6,7 @@
 
 With over a decade of experience in DevOps engineering and consulting, I help teams develop and operate workloads on **Microsoft Azure,** the leading cloud platform for enterprise applications. I deliver high-quality solutions through pipeline automation, cloud architecture and security, and DevOps adoption.
 
-I am passionate about helping teams improve their DevOps practices and culture, always learning new technologies and tools to enhance my capabilities.
+I am passionate about helping teams improve their DevOps practices and culture and I'm always learning new technologies and tools to enhance my capabilities.
 
 ### 🎯 Key Areas of Expertise
 
@@ -16,10 +16,6 @@ I am passionate about helping teams improve their DevOps practices and culture, 
 - CI/CD Pipeline Design and Implementation
 - Cloud Security and Governance
 - DevOps Culture Adoption and Team Enablement
-
-### 💡 Profile
-
-Driven by a commitment to delivering excellent outcomes for clients and teams alike. My work sits at the intersection of automation, cloud infrastructure, and secure software delivery: helping organizations elevate their engineering practices and operate confidently at scale.
 
 ---
 
