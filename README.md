@@ -86,6 +86,7 @@ Driven by a commitment to delivering excellent outcomes for clients and teams al
 - Microsoft Certified: DevOps Engineer Expert
 - Microsoft Certified: Azure Administrator Associate
 - Azure AI Fundamentals
+- Microsoft Certified Trainer
 
 ---
 
