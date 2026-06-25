@@ -54,12 +54,12 @@ I am passionate about helping teams improve their DevOps practices and culture a
 #### Partner Sales Credentials
 
 <p align="left">
-  <img src="https://images.credly.com/images/b8050ac2-6bfb-4457-8ad5-026e3018d5c9/blob" alt="GitHub Partner Technical Sales Professional Credential" height="100"/>
+  <img src="https://images.credly.com/images/2fec1aa4-055f-42e2-b827-c6734b2c92fb/blob" alt="GitHub Partner Technical Sales Professional Credential" height="100"/>
   <img src="https://images.credly.com/images/33114f54-24fd-4187-8a53-9be8dfd7f4f7/blob" alt="FY26 GitHub Partner Sales Professional" height="100"/>
-  <img src="https://images.credly.com/images/29709000-5ca7-41f6-b18c-1aa7786d1c75/blob" alt="FY26 GitHub Platform Partner Sales Credential" height="100"/>
-  <img src="https://images.credly.com/images/7b8bffc8-57ca-49b9-b88a-8e866f8615df/blob" alt="FY26 GitHub Advanced Security Partner Sales Credential" height="100"/>
-  <img src="https://images.credly.com/images/393e34aa-0d1f-4d42-bc91-d22b418dddf7/blob" alt="FY26 GitHub Copilot Partner Sales Credential" height="100"/>
-  <img src="https://images.credly.com/images/985a6478-a1ba-4683-8b54-82d08c0c1c35/blob" alt="FY26 GitHub Revenue Motions Partner Sales Credential" height="100"/>
+  <img src="https://images.credly.com/images/c8adafba-4edd-407e-8af9-94a4d75f5e0f/blob" alt="FY26 GitHub Platform Partner Sales Credential" height="100"/>
+  <img src="https://images.credly.com/images/ef82edad-5c81-413d-b60c-344d0ae962a6/blob" alt="FY26 GitHub Advanced Security Partner Sales Credential" height="100"/>
+  <img src="https://images.credly.com/images/05c8a7a6-b0c4-48e6-ad10-0c709c5ee1cc/blob" alt="FY26 GitHub Copilot Partner Sales Credential" height="100"/>
+  <img src="https://images.credly.com/images/f9381960-f6aa-473a-8379-ace37bc38ff1/blob" alt="FY26 GitHub Revenue Motions Partner Sales Credential" height="100"/>
 </p>
 
 - GitHub Partner Technical Sales Professional Credential
