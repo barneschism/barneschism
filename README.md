@@ -41,9 +41,9 @@ I am passionate about helping teams improve their DevOps practices and culture a
 
 <p align="left">
   <img src="https://images.credly.com/images/30177920-abe4-4057-9c6f-f31991b813cd/blob" alt="GitHub Copilot: Core Skills & Application Partner Delivery Credential" height="100"/>
-  <img src="https://images.credly.com/images/594e9ab8-7187-44f0-b87d-4753d3dc0079/blob" alt="GitHub Advanced Security Partner Delivery Credential" height="100"/>
-  <img src="https://images.credly.com/images/965532be-0de5-469c-b7aa-266440f4b6eb/blob" alt="GitHub Migrations Partner Delivery Credential" height="100"/>
-  <img src="https://images.credly.com/images/2eb00d3c-cc28-4381-b861-c5b9dc2776ea/blob" alt="AzureDevOps to GitHub Migrations Partner Delivery Credential" height="100"/>
+  <img src="https://images.credly.com/images/e4b23b0b-3a76-4f53-b81a-f8f44adc8b0c/blob" alt="GitHub Advanced Security Partner Delivery Credential" height="100"/>
+  <img src="https://images.credly.com/images/3627ca5d-228e-4601-8c1f-0633ca7fbef3/blob" alt="GitHub Migrations Partner Delivery Credential" height="100"/>
+  <img src="https://images.credly.com/images/e2f36c43-d1b2-43a2-bd43-f92b205375e6/blob" alt="AzureDevOps to GitHub Migrations Partner Delivery Credential" height="100"/>
 </p>
 
 - GitHub Copilot: Core Skills & Application Partner Delivery Credential
