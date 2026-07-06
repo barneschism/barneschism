@@ -92,7 +92,7 @@ I am passionate about helping teams improve their DevOps practices and culture a
 <p align="left">
   <img src="https://images.credly.com/images/9b27ec94-350b-475d-893c-8cc274e276b6/converted20260317-32-v3kzo3.png" alt="Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions" height="100"/>
   <img src="https://images.credly.com/images/5cc7dada-ab3d-4883-bdee-aa4354c28fb2/converted20260317-32-mv7j2m.png" alt="Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot" height="100"/>
-  <img src="https://images.credly.com/images/5cc7dada-ab3d-4883-bdee-aa4354c28fb2/converted20260317-32-mv7j2m.png" alt="Microsoft Applied Skills: Resolve GitHub issues by using GitHub Copilot height="100"/>
+  <img src="https://images.credly.com/images/5cc7dada-ab3d-4883-bdee-aa4354c28fb2/converted20260317-32-mv7j2m.png" alt="Microsoft Applied Skills: Resolve GitHub issues by using GitHub Copilot" height="100"/>
 </p>
 
 - Automate Azure Load Testing by using GitHub Actions
