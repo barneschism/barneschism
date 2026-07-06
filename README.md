@@ -37,7 +37,7 @@ I am passionate about helping teams improve their DevOps practices and culture a
 - GitHub Administration
 - GitHub Advanced Security
 - GitHub Copilot
-- GitHub Foundations
+- GitHub Foundations (I also wrote most of the questions for this exam)
 
 #### Partner Delivery Credentials
 
