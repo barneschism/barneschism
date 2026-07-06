@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Barnes Chism
-#1 GitHub certified professional in the world
+#1 GitHub certified professional in the world:
 https://github.com/andrediasbr/github-certification-ranking/blob/main/TOP10_WORLD.md
 
 ## 🚀 About Me
